@@ -60,22 +60,20 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
+<img width="1489" height="785" alt="image" src="https://github.com/user-attachments/assets/3b058c1e-fc31-49bc-a84b-f210b82b6c28" />
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V) | FREQUENCY (Hz) |
-| ------- | ---------------------- | ------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical** |                |
-|         |                        | **Emax =**    |                |
-|         |                        | **Emin =**    |                |
-| **4**   | **Demodulated Signal** | **Practical** |                |
+## calculation
+
+
+<img width="1600" height="1485" alt="image" src="https://github.com/user-attachments/assets/848e918f-7328-4801-beeb-efafad4c1aa9" />
+
+## output
+
+<img width="1071" height="634" alt="image" src="https://github.com/user-attachments/assets/b31793e0-c37a-404e-ba63-8cd41c12f5ea" />
 
 ---
 
-## MODEL GRAPH
+## result
+Successfully performed SSBSC modulation and demodulation using SCI LAB.
 
 
