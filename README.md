@@ -61,20 +61,6 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 
 ## TABULATION
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V) | FREQUENCY (Hz) |
-| ------- | ---------------------- | ------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical** |                |
-|         |                        | **Emax =**    |                |
-|         |                        | **Emin =**    |                |
-| **4**   | **Demodulated Signal** | **Practical** |                |
-
----
 
 ## MODEL GRAPH
 
